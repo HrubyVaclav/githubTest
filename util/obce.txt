@@ -1,0 +1,10 @@
+Praha, 6672, Obec 7, 62827, 55895, 118722
+Karlovarský kraj, 4462, Obec 8, 5002, 35953, 40955
+Moravskoslezský kraj, 1511, Obec 5, 9983, 2599, 12582
+Olomoucký kraj, 3218, Obec 2, 80313, 86006, 166319
+Olomoucký kraj, 2920, Obec 10, 16293, 42064, 58357
+Pardubický kraj, 7216, Obec 3, 56208, 63930, 120138
+Pardubický kraj, 4238, Obec 4, 93227, 26833, 120060
+Středočeský kraj, 3996, Obec 1, 17063, 43035, 60098
+Ústecký kraj, 3711, Obec 9, 35682, 41070, 76752
+Zlínský kraj, 1348, Obec 6, 49800, 99837, 149637
